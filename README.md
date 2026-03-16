@@ -1,8 +1,7 @@
 # IT 2009 - Operating Systems
 ## Project 1: Implement a Shell
 
-*MSc. Aldin KOVAČEVIĆ — March, 2026*
-
+Deadline: May 3rd, 2026, 23:59
 ---
 
 The purpose of this project is to familiarize you with the mechanics of process control through
@@ -121,11 +120,9 @@ code**. Furthermore, you may be asked to **modify or extend** your shell impleme
 without using external resources. Therefore, you must **fully understand every part** of your
 code.
 
-Submissions will be done using **GitHub Classroom**. There are **no tests** for the project, so
+There are **no tests** for the project, so
 please do not send emails asking if your project is "passing tests" or not. GitHub Classroom is
 only used as a means of **collecting all your projects** in a single place.
-
-The assignment link is here: *(link)*
 
 The deadline for the assignment is the **end of Week 9: May 3rd, 23:59**. Any submissions to
 GitHub Classroom past this deadline **will not be accepted**.
