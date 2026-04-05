@@ -1,5 +1,4 @@
-#include "prompt.c"
-#include "input.c"
+#include "hsh.h"
 
 int main() {
     char input[1024];
